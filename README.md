@@ -1,11 +1,3 @@
-# yoshiharuyamashita.com
+# Maloy Manna
 
-My personal website hosted on GitHub Pages.
-
-## Powered by
-- [Hugo](//gohugo.io/)
-- [Pure CSS](//purecss.io/)
-
-## Built and Deployed with Wercker
-
-[![wercker status](https://app.wercker.com/status/1e5b6697381725e0766e55e130e76730/m "wercker status")](https://app.wercker.com/project/bykey/1e5b6697381725e0766e55e130e76730)
+This is the source repository of my blog: [Maloy Manna](//maloymanna.github.io). The website is generated with [Hugo](//gohugo.io/) and hosted on GitHub Pages.
